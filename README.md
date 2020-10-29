@@ -1,2 +1,2 @@
 # Statistics-and-Feature-Engineering
-In thi repositry all suff relate to statistics and feature Engineering
+In this repositry all stuff related to statistics and feature Engineering
